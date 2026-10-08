@@ -1,0 +1,42 @@
+[
+ {
+  "berkas": "Cinzel.woff2",
+  "family": "Cinzel",
+  "italic": false,
+  "weight": "400 900",
+  "style": "normal",
+  "chars": 86
+ },
+ {
+  "berkas": "CormorantGaramond.woff2",
+  "family": "Cormorant Garamond",
+  "italic": true,
+  "weight": "300 700",
+  "style": "italic",
+  "chars": 86
+ },
+ {
+  "berkas": "Inter.woff2",
+  "family": "Inter",
+  "italic": false,
+  "weight": "300 800",
+  "style": "normal",
+  "chars": 86
+ },
+ {
+  "berkas": "JetBrainsMono.woff2",
+  "family": "JetBrains Mono",
+  "italic": false,
+  "weight": "400 700",
+  "style": "normal",
+  "chars": 86
+ },
+ {
+  "berkas": "ShipporiMincho.woff2",
+  "family": "Shippori Mincho",
+  "italic": false,
+  "weight": "400 700",
+  "style": "normal",
+  "chars": 273
+ }
+]

@@ -1,0 +1,10 @@
+Letakkan foto galeri di folder ini dengan nama berkas:
+
+01-seragam-hitam.jpg
+02-seragam-putih.jpg
+03-ujian-kelas.jpg
+04-sesi-online.jpg
+05-alumni-salju.jpg
+06-alumni-sakura.jpg
+
+Detail tiap slot ada di ..\..\CARA-PAKAI.html
